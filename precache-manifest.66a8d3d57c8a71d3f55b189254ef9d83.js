@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2ae6b4797c3c358f76b7a283906c23b",
+    "revision": "9bd67164035f6cf4f5610b5bfd580c43",
     "url": "/latestportfolio/index.html"
   },
   {
-    "revision": "a3fd140b6c153f9befb2",
+    "revision": "0e2ab4b52e7143b35ec8",
     "url": "/latestportfolio/static/css/main.2a0bf198.chunk.css"
   },
   {
-    "revision": "dc128700b2bfb7fd6471",
-    "url": "/latestportfolio/static/js/2.e3828771.chunk.js"
+    "revision": "dbd55cd1faeb2ef7380f",
+    "url": "/latestportfolio/static/js/2.ea290ccd.chunk.js"
   },
   {
-    "revision": "a3fd140b6c153f9befb2",
-    "url": "/latestportfolio/static/js/main.ed72e28f.chunk.js"
+    "revision": "0e2ab4b52e7143b35ec8",
+    "url": "/latestportfolio/static/js/main.a20373f4.chunk.js"
   },
   {
     "revision": "637b7a79515e1d3d0e37",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/latestportfolio/static/media/address_image.16559172.svg"
   },
   {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/latestportfolio/static/media/animated_ashutosh.eaf02c2d.png"
-  },
-  {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/latestportfolio/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "88a50f01c68b65459222b9b076ad8865",
+    "url": "/latestportfolio/static/media/ariksa.88a50f01.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -192,10 +192,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/latestportfolio/static/media/ibm_logo.d3fccbe1.png"
   },
   {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "/latestportfolio/static/media/iiitk_logo.571a8584.png"
-  },
-  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/latestportfolio/static/media/intel_logo.29152cf7.jpg"
   },
@@ -220,8 +216,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/latestportfolio/static/media/muffito_logo.069938a8.png"
   },
   {
+    "revision": "4147536cacf249368772aee86ed5a957",
+    "url": "/latestportfolio/static/media/nituk.4147536c.png"
+  },
+  {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "/latestportfolio/static/media/nptel_logo.95a12a2b.png"
+  },
+  {
+    "revision": "bf3e6c2f9ebe74a45d6079ef13ca7502",
+    "url": "/latestportfolio/static/media/orangehealth.bf3e6c2f.jpg"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -238,6 +242,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/latestportfolio/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "e50ccab293b936531e09b79eb7a26e42",
+    "url": "/latestportfolio/static/media/sohan.e50ccab2.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
