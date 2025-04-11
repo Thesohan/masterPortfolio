@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Sohan Kathait",
   logo_name: "SohanKathait",
-  nickname: "Computer Science And Engineering",
+  nickname: "Software Engineer",
   subTitle:
     "I’m a results-driven Senior Software Engineer with 5+ years of experience building scalable, distributed impactful solutions. I have been part of Network Security, HealthTech, Loyalty & Reward industries in past. I thrive in fast-paced environments and enjoy collaborating across teams to turn ideas into reality. Always learning, always building!!!",
   resumeLink:
@@ -117,7 +117,7 @@ const skills = {
           },
         },
         {
-          skillName: "Dart",
+          skillName: "Shell",
           fontAwesomeClassname: "vscode-icons:file-type-shell",
           style: {
             backgroundColor: "transparent",
@@ -125,8 +125,8 @@ const skills = {
           },
         },
         {
-          skillName: "Shell",
-          fontAwesomeClassname: "logos:typescript-icon",
+          skillName: "Dart",
+          fontAwesomeClassname: "devicon-plain:dart-wordmark",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -348,6 +348,23 @@ const competitiveSites = {
       },
       profileLink: "https://medium.com/@sohankathait",
     },
+    {
+      siteName: "UK board 12th class Merit",
+      iconifyClassname: "twemoji:school-backpack",
+      style: {
+        color: "#323754",
+      },
+      profileLink:
+        "https://ubse.uk.gov.in/files/INTERMEDIATE_MERIT_LIST_2015.pdf",
+    },
+    {
+      siteName: "UK board 10th class Merit",
+      iconifyClassname: "emojione:school-backpack",
+      style: {
+        color: "#323754",
+      },
+      profileLink: "https://ubse.uk.gov.in/files/HIGHSCHOO_MERIT_2013.doc",
+    },
   ],
 };
 
@@ -360,11 +377,25 @@ const degrees = {
       alt_name: "nit uk",
       duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied Computer science and engineering subjects like DS, OOPS, Algorithms, DBMS, OS, Computer Architecture, AI, Computer networks, System programming, Descrete mathematics etc.",
+        "⚡ Apart from this, I have done training on Android app development.",
       ],
       website_link: "https://nituk.ac.in/",
+    },
+    {
+      title:
+        "Saraswati Vidya Mandir Inter College, New Tehri, Tehri Garhwal, Uttarakhand",
+      subtitle: "10th & 12th",
+      logo_path: "school.png",
+      alt_name: "nit uk",
+      duration: "2013 & 2015",
+      descriptions: [
+        "⚡ 100/100 in maths in 12th class.",
+        "⚡ 24th rank in uttarakhand state board examination in 12th class.",
+        "⚡ 5th rank in uttarakhand state board examination in 10th class.",
+        "⚡ Top 1% student in 10th board examination.",
+      ],
+      website_link: "https://ubse.uk.gov.in/files/HIGHSCHOO_MERIT_2013.doc",
     },
   ],
 };
@@ -485,9 +516,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work",
+  subtitle: "About Me",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have a proven track record of working in fast-paced startups across Cloud Security, HealthTech, and the Loyalty & Rewards industry. Honesty and a can-do attitude are at the core of my work ethic. In my pursuit of personal and professional growth, I embrace the philosophy of GyShiDo.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -639,7 +670,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "sohan.png",
     description:
-      "I’m a backend engineer with a strong foundation in designing and scaling high-performance systems for both startups and enterprise-grade platforms, serving over 100 million users. My expertise lies in distributed systems, microservice architecture, performance tuning, and developer experience. I’ve led several impactful projects, including a multi-cloud (AWS, GCP, Azure) vulnerability management framework, a scalable patch prioritization system handling millions of vulnerabilities, and backend support for runtime protection using eBPF. In another role, I helped scale operations from one city to eight, revamped monolithic services for microservices migration, and built a reusable Go backend template with built-in observability. My optimizations have led to significant performance gains, such as a 70% reduction in p95 latency on analytics dashboards and a 30% cut in CI build times. I also integrated API documentation with CI/CD pipelines to keep documentation always up-to-date for clients. Beyond technical contributions, I’ve actively participated in hiring, mentoring new team members, conducting root cause analyses, and stepping into leadership roles during transitions. I thrive in fast-paced, collaborative environments and aim to build robust systems that not only scale but also drive meaningful business impact.",
+      "I’m a backend engineer with a strong foundation in designing and scaling high-performance systems for both startups and enterprise-grade platforms, serving over 100 million users. My expertise lies in distributed systems, microservice architecture, performance tuning, and developer experience. I’ve led several impactful projects, including a multi-cloud (AWS, GCP, Azure) vulnerability management framework. In another role, I helped scale operations from one city to eight, revamped monolithic services for microservices migration, and built a reusable Go backend template with built-in observability. Beyond technical contributions, I’ve actively participated in hiring, mentoring new team members, conducting root cause analyses, and stepping into leadership roles during transitions. I thrive in fast-paced, collaborative environments and aim to build robust systems that not only scale but also drive meaningful business impact.",
   },
   blogSection: {
     title: "Blogs",
