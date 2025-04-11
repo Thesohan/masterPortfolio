@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a5fd3d4584b00633482e3d9fc42c24e",
+    "revision": "6fb323ec411129b6bcbc668ed5083106",
     "url": "/index.html"
   },
   {
-    "revision": "900d02e78829c8b7463f",
+    "revision": "237241de81baac1cb9e5",
     "url": "/static/css/main.9c27953e.chunk.css"
   },
   {
-    "revision": "4d6d3ba51c1e421a44a6",
-    "url": "/static/js/2.fd8e3a29.chunk.js"
+    "revision": "59def5b8d2177b06eb8f",
+    "url": "/static/js/2.8d1fce71.chunk.js"
   },
   {
-    "revision": "900d02e78829c8b7463f",
-    "url": "/static/js/main.2ef4e3a3.chunk.js"
+    "revision": "237241de81baac1cb9e5",
+    "url": "/static/js/main.321c29cc.chunk.js"
   },
   {
     "revision": "6886b9e849f5e1e5a601",
@@ -216,8 +216,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/muffito_logo.069938a8.png"
   },
   {
-    "revision": "4147536cacf249368772aee86ed5a957",
-    "url": "/static/media/nituk.4147536c.png"
+    "revision": "16b72485455b404255a13530fa59b873",
+    "url": "/static/media/nituk.16b72485.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
@@ -244,8 +244,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.71408db7.png"
   },
   {
-    "revision": "e50ccab293b936531e09b79eb7a26e42",
-    "url": "/static/media/sohan.e50ccab2.png"
+    "revision": "583f6a3ea5662bb20841b2299d892219",
+    "url": "/static/media/school.583f6a3e.png"
+  },
+  {
+    "revision": "d4c844c39f369a53614841293a5d782a",
+    "url": "/static/media/sohan.d4c844c3.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",

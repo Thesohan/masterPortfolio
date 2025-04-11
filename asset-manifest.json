@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9c27953e.chunk.css",
-    "main.js": "/static/js/main.2ef4e3a3.chunk.js",
-    "main.js.map": "/static/js/main.2ef4e3a3.chunk.js.map",
+    "main.js": "/static/js/main.321c29cc.chunk.js",
+    "main.js.map": "/static/js/main.321c29cc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.97b3c6f1.js",
     "runtime-main.js.map": "/static/js/runtime-main.97b3c6f1.js.map",
-    "static/js/2.fd8e3a29.chunk.js": "/static/js/2.fd8e3a29.chunk.js",
-    "static/js/2.fd8e3a29.chunk.js.map": "/static/js/2.fd8e3a29.chunk.js.map",
+    "static/js/2.8d1fce71.chunk.js": "/static/js/2.8d1fce71.chunk.js",
+    "static/js/2.8d1fce71.chunk.js.map": "/static/js/2.8d1fce71.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c87e6ec97c0e1d127e8bb4332c5d238c.js": "/precache-manifest.c87e6ec97c0e1d127e8bb4332c5d238c.js",
+    "precache-manifest.90b75c27dcdc035bf53c02c553f49298.js": "/precache-manifest.90b75c27dcdc035bf53c02c553f49298.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9c27953e.chunk.css.map": "/static/css/main.9c27953e.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -39,14 +39,15 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
-    "static/media/nituk.png": "/static/media/nituk.4147536c.png",
+    "static/media/nituk.png": "/static/media/nituk.16b72485.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
     "static/media/orangehealth.jpg": "/static/media/orangehealth.bf3e6c2f.jpg",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
-    "static/media/sohan.png": "/static/media/sohan.e50ccab2.png",
+    "static/media/school.png": "/static/media/school.583f6a3e.png",
+    "static/media/sohan.png": "/static/media/sohan.d4c844c3.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
@@ -55,8 +56,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.97b3c6f1.js",
-    "static/js/2.fd8e3a29.chunk.js",
+    "static/js/2.8d1fce71.chunk.js",
     "static/css/main.9c27953e.chunk.css",
-    "static/js/main.2ef4e3a3.chunk.js"
+    "static/js/main.321c29cc.chunk.js"
   ]
 }
