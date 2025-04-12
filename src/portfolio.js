@@ -532,8 +532,11 @@ const experience = {
           logo_path: "ariksa.png",
           duration: "Aug 2023 - Present",
           location: "Cupertino, California, USA",
-          description:
-            "Designed and led a multi-cloud vulnerability management framework (AWS, GCP, Azure), built a scalable system to prioritize patching across millions of vulnerabilities, and implemented backend support for runtime protection via eBPF agent visibility.",
+          description: [
+            "⚡ Designed and led a multi-cloud vulnerability management framework (AWS, GCP, Azure).",
+            "⚡ Built a scalable system to prioritize patching across millions of vulnerabilities.",
+            "⚡ Implemented backend support for runtime protection via eBPF agent visibility.",
+          ],
           color: "#000000",
         },
         {
@@ -543,8 +546,13 @@ const experience = {
           logo_path: "orangehealth.jpg",
           duration: "Apr 2023 - July 2023",
           location: "Benguluru, India",
-          description:
-            "Successfully optimized high-impact service endpoints, leading to an Apdex score of 1 for a critical customer-facing service and significantly boosting system performance. Implemented and maintained engineering processes such as git-flow, detailed design documentation, and thorough API documentation—ensuring clarity, consistency, and long-term maintainability. Owned the end-to-end lifecycle of key features released by the team, including development, deployment, and post-release monitoring. Actively identified and resolved critical issues post-launch, contributing to stable operations and a better customer experience. Conducted and shared Root Cause Analyses (RCAs) for major incidents, helping teams across the organization avoid similar pitfalls and fostering a culture of continuous improvement and knowledge sharing. Demonstrated initiative and leadership by stepping up in the absence of the Engineering Manager and Tech Lead—making architectural decisions, unblocking team members, and ensuring uninterrupted execution across sprints.",
+          description: [
+            "⚡ Successfully optimized high-impact service endpoints, leading to an Apdex score of 1 for a critical customer-facing service and significantly boosting system performance.",
+            "⚡ Implemented and maintained engineering processes such as git - flow, detailed design documentation, and thorough API documentation—ensuring clarity, consistency, and long - term maintainability.",
+            "⚡ Owned the end - to - end lifecycle of key features released by the team, including development, deployment, and post - release monitoring.",
+            "⚡ Actively identified and resolved critical issues post - launch, contributing to stable operations and a better customer experience.Conducted and shared Root Cause Analyses(RCAs) for major incidents, helping teams across the organization avoid similar pitfalls and fostering a culture of continuous improvement and knowledge sharing.",
+            "⚡ Demonstrated initiative and leadership by stepping up in the absence of the Engineering Manager and Tech Lead—making architectural decisions, unblocking team members, and ensuring uninterrupted execution across sprints.",
+          ],
           color: "#0879bf",
         },
         {
@@ -554,8 +562,11 @@ const experience = {
           logo_path: "orangehealth.jpg",
           duration: "Jan 2022 - Mar 2023",
           location: "Benguluru, India",
-          description:
-            "Scaled systems to support 5M+ users, playing a key role in expanding operations from 1 to 8 cities as part of the founding engineering team. Led bulk order processing system design, revamped monolithic services for microservice transition, and improved observability via logging middleware. Established a Go backend template with logging/monitoring and consistently optimized service performance.",
+          description: [
+            "⚡ Scaled systems to support 5M+ users, playing a key role in expanding operations from 1 to 8 cities as part of the founding engineering team.",
+            "⚡ Led bulk order processing system design, revamped monolithic services for microservice transition, and improved observability via logging middleware.",
+            "⚡ Established a Go backend template with logging/monitoring and consistently optimized service performance.",
+          ],
           color: "#9b1578",
         },
         {
@@ -565,8 +576,12 @@ const experience = {
           logo_path: "lji.jpeg",
           duration: "Jul 2021 - Dec 2021",
           location: "Hyderabad, India",
-          description:
-            "Led architecture and development of a critical receipt scanning module. Mentored new hires and supported onboarding for smooth integration. Played an active role in hiring through daily interviews. Optimized CircleCI builds, reducing build time by 30% and improving developer productivity.",
+          description: [
+            "⚡ Led architecture and development of a critical receipt scanning module.",
+            "⚡ Mentored new hires and supported onboarding for smooth integration.",
+            "⚡ Played an active role in hiring through daily interviews.",
+            "⚡ Optimized CircleCI builds, reducing build time by 30% and improving developer productivity.",
+          ],
           color: "#fc1f20",
         },
         {
@@ -576,8 +591,12 @@ const experience = {
           logo_path: "lji.jpeg",
           duration: "May 2020 - Jun 2021",
           location: "Hyderabad, India",
-          description:
-            "At 100M+ user scale, optimized critical endpoints in a multi-tenant app, cutting p95 latency by 50%. Added caching to analytics APIs (Redshift + SQLAlchemy), reducing latency by 70%. Integrated API docs with CircleCI for up-to-date client access. Built SQL logging middleware to identify slow queries, boosting system efficiency and client satisfaction.",
+          description: [
+            "⚡ At 100M+ user scale, optimized critical endpoints in a multi-tenant app, cutting p95 latency by 50%.",
+            "⚡ Added caching to analytics APIs (Redshift + SQLAlchemy), reducing latency by 70%.",
+            "⚡ Integrated API docs with CircleCI for up-to-date client access.",
+            "⚡ Built SQL logging middleware to identify slow queries, boosting system efficiency and client satisfaction.",
+          ],
           color: "#fc1f20",
         },
       ],
@@ -628,7 +647,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My personal projects helped me master my craft and i'm a fan of learning my doing. I've hands on experience with Android app development, Backend system design, Database design, Cloud providers (AWS,GCP,Azure).",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -670,7 +689,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "sohan.png",
     description:
-      "I’m a backend engineer with a strong foundation in designing and scaling high-performance systems for both startups and enterprise-grade platforms, serving over 100 million users. My expertise lies in distributed systems, microservice architecture, performance tuning, and developer experience. I’ve led several impactful projects, including a multi-cloud (AWS, GCP, Azure) vulnerability management framework. In another role, I helped scale operations from one city to eight, revamped monolithic services for microservices migration, and built a reusable Go backend template with built-in observability. Beyond technical contributions, I’ve actively participated in hiring, mentoring new team members, conducting root cause analyses, and stepping into leadership roles during transitions. I thrive in fast-paced, collaborative environments and aim to build robust systems that not only scale but also drive meaningful business impact.",
+      "I’m a backend engineer with a strong foundation in designing and scaling high-performance systems for both startups and enterprise-grade platforms, serving over 100 million users. My expertise lies in distributed systems, microservice architecture, performance tuning, and developer experience. Beyond technical contributions, I’ve actively participated in hiring, mentoring new team members, conducting root cause analyses, and stepping into leadership roles during transitions. I thrive in fast-paced, collaborative environments and aim to build robust systems that not only scale but also drive meaningful business impact.",
   },
   blogSection: {
     title: "Blogs",
