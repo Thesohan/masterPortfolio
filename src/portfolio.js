@@ -9,11 +9,11 @@ const settings = {
 const seo = {
   title: "Sohan's Portfolio",
   description:
-    "I’m a results-driven Senior Software Engineer with 5+ years of experience building scalable, distributed impactful solutions. I specialize in Network Security, HealthTech, Loyalty & Reward industry, with a passion for solving complex problems and driving innovation. I thrive in fast-paced environments and enjoy collaborating across teams to turn ideas into reality. Always learning, always building.",
+    "I’m a results-driven Senior Software Engineer with 5+ years of experience building scalable, distributed impactful solutions. I specialize in Network Security, HealthTech, Loyalty & Reward industry, with a passion for solving complex problems and driving innovation. I thrive in fast-paced environments and enjoy collaborating across teams to turn ideas into reality. My expertise lies in distributed systems, microservice architecture, performance tuning, and developer experience. Always learning, always building!!!",
   og: {
     title: "Sohan Kathait Portfolio",
     type: "website",
-    url: "http://Thesohan.github.io/",
+    url: "http://Thesohan.github.io/masterPortfolio/",
   },
 };
 
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "SohanKathait",
   nickname: "Software Engineer",
   subTitle:
-    "I’m a results-driven Senior Software Engineer with 5+ years of experience building scalable, distributed impactful solutions. I have been part of Network Security, HealthTech, Loyalty & Reward industries in past. I thrive in fast-paced environments and enjoy collaborating across teams to turn ideas into reality. Always learning, always building!!!",
+    "I’m a results-driven Senior Software Engineer with 5+ years of experience building scalable, distributed impactful solutions. I specialize in Network Security, HealthTech, Loyalty & Reward industry, with a passion for solving complex problems and driving innovation. I thrive in fast-paced environments and enjoy collaborating across teams to turn ideas into reality. My expertise lies in distributed systems, microservice architecture, performance tuning, and developer experience. Always learning, always building!!!",
   resumeLink:
     "https://drive.google.com/file/d/1AZHbn4Q_SoIg0Yhr1mnNB3NW4VcaABWH/view?usp=drive_link",
   topmate: "https://topmate.io/sohan_kathait",

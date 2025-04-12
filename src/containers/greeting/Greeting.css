@@ -44,10 +44,10 @@
 }
 
 .greeting-text-p {
-  font-size: 40px;
+  font-size: 20px;
   line-height: 40px;
   margin-right: 40px;
-  font-family: "Google Sans Medium";
+  font-family: "Google Sans Regular";
 }
 
 .greeting-image-div > * {
