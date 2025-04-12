@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Sohan Kathait Portfolio",
     type: "website",
-    url: "http://Thesohan.github.io/masterPortfolio/",
+    url: "http://Thesohan.github.io/",
   },
 };
 
