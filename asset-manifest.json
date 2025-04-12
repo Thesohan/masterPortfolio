@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/masterPortfolio/static/css/main.02a3a1d0.chunk.css",
-    "main.js": "/masterPortfolio/static/js/main.fbe72fa1.chunk.js",
-    "main.js.map": "/masterPortfolio/static/js/main.fbe72fa1.chunk.js.map",
+    "main.css": "/masterPortfolio/static/css/main.6425106c.chunk.css",
+    "main.js": "/masterPortfolio/static/js/main.210a0ebc.chunk.js",
+    "main.js.map": "/masterPortfolio/static/js/main.210a0ebc.chunk.js.map",
     "runtime-main.js": "/masterPortfolio/static/js/runtime-main.569619ce.js",
     "runtime-main.js.map": "/masterPortfolio/static/js/runtime-main.569619ce.js.map",
     "static/js/2.f5e6b3ab.chunk.js": "/masterPortfolio/static/js/2.f5e6b3ab.chunk.js",
     "static/js/2.f5e6b3ab.chunk.js.map": "/masterPortfolio/static/js/2.f5e6b3ab.chunk.js.map",
     "index.html": "/masterPortfolio/index.html",
-    "precache-manifest.7c658bdcbec4451492de704c08eb01f9.js": "/masterPortfolio/precache-manifest.7c658bdcbec4451492de704c08eb01f9.js",
+    "precache-manifest.c4c2f7d8e0bfe9a9abfa36c2fef49df6.js": "/masterPortfolio/precache-manifest.c4c2f7d8e0bfe9a9abfa36c2fef49df6.js",
     "service-worker.js": "/masterPortfolio/service-worker.js",
-    "static/css/main.02a3a1d0.chunk.css.map": "/masterPortfolio/static/css/main.02a3a1d0.chunk.css.map",
+    "static/css/main.6425106c.chunk.css.map": "/masterPortfolio/static/css/main.6425106c.chunk.css.map",
     "static/media/index.css": "/masterPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/masterPortfolio/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/masterPortfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -47,7 +47,7 @@
     "static/media/projects_image.svg": "/masterPortfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/masterPortfolio/static/media/pwa.71408db7.png",
     "static/media/school.png": "/masterPortfolio/static/media/school.583f6a3e.png",
-    "static/media/sohan.png": "/masterPortfolio/static/media/sohan.d4c844c3.png",
+    "static/media/sohan.png": "/masterPortfolio/static/media/sohan.e11c57fa.png",
     "static/media/stanford_logo.png": "/masterPortfolio/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/masterPortfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/masterPortfolio/static/media/talksCardBackAlt.3fa54242.svg",
@@ -57,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.569619ce.js",
     "static/js/2.f5e6b3ab.chunk.js",
-    "static/css/main.02a3a1d0.chunk.css",
-    "static/js/main.fbe72fa1.chunk.js"
+    "static/css/main.6425106c.chunk.css",
+    "static/js/main.210a0ebc.chunk.js"
   ]
 }
