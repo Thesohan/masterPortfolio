@@ -533,7 +533,7 @@ const experience = {
           duration: "Aug 2023 - Present",
           location: "Cupertino, California, USA",
           description: [
-            "⚡ Designed and led a multi-cloud vulnerability management framework (AWS, GCP, Azure).",
+            "⚡ Designed and led a multi-cloud vulnerability management agentless framework for AWS, GCP, Azure cloud. This framework scans for vulnerabilities, secrets, SBOM, OS and packages, SSH logins.",
             "⚡ Built a scalable system to prioritize patching across millions of vulnerabilities.",
             "⚡ Implemented backend support for runtime protection via eBPF agent visibility.",
           ],
@@ -548,9 +548,10 @@ const experience = {
           location: "Benguluru, India",
           description: [
             "⚡ Successfully optimized high-impact service endpoints, leading to an Apdex score of 1 for a critical customer-facing service and significantly boosting system performance.",
-            "⚡ Implemented and maintained engineering processes such as git - flow, detailed design documentation, and thorough API documentation—ensuring clarity, consistency, and long - term maintainability.",
-            "⚡ Owned the end - to - end lifecycle of key features released by the team, including development, deployment, and post - release monitoring.",
-            "⚡ Actively identified and resolved critical issues post - launch, contributing to stable operations and a better customer experience.Conducted and shared Root Cause Analyses(RCAs) for major incidents, helping teams across the organization avoid similar pitfalls and fostering a culture of continuous improvement and knowledge sharing.",
+            "⚡ Implemented and maintained engineering processes such as git-flow, detailed design documentation, and thorough API documentation—ensuring clarity, consistency, and long-term maintainability.",
+            "⚡ Owned the end-to-end lifecycle of key features released by the team, including development, deployment, and post-release monitoring.",
+            "⚡ Actively identified and resolved critical issues post-launch, contributing to stable operations and a better customer experience.",
+            "⚡ Conducted and shared Root Cause Analyses (RCAs) for major incidents, helping teams across the organization avoid similar pitfalls and fostering a culture of continuous improvement and knowledge sharing.",
             "⚡ Demonstrated initiative and leadership by stepping up in the absence of the Engineering Manager and Tech Lead—making architectural decisions, unblocking team members, and ensuring uninterrupted execution across sprints.",
           ],
           color: "#0879bf",
@@ -578,8 +579,7 @@ const experience = {
           location: "Hyderabad, India",
           description: [
             "⚡ Led architecture and development of a critical receipt scanning module.",
-            "⚡ Mentored new hires and supported onboarding for smooth integration.",
-            "⚡ Played an active role in hiring through daily interviews.",
+            "⚡ Played an active role in hiring through daily interviews. Also, mentored new hires and supported onboarding for smooth integration.",
             "⚡ Optimized CircleCI builds, reducing build time by 30% and improving developer productivity.",
           ],
           color: "#fc1f20",
@@ -592,8 +592,7 @@ const experience = {
           duration: "May 2020 - Jun 2021",
           location: "Hyderabad, India",
           description: [
-            "⚡ At 100M+ user scale, optimized critical endpoints in a multi-tenant app, cutting p95 latency by 50%.",
-            "⚡ Added caching to analytics APIs (Redshift + SQLAlchemy), reducing latency by 70%.",
+            "⚡ At 100M+ user scale, optimized critical endpoints in a multi-tenant app, cutting p95 latency by 50%. Also, added caching to analytics APIs (Redshift + SQLAlchemy), reducing latency by 70%.",
             "⚡ Integrated API docs with CircleCI for up-to-date client access.",
             "⚡ Built SQL logging middleware to identify slow queries, boosting system efficiency and client satisfaction.",
           ],
@@ -601,45 +600,59 @@ const experience = {
         },
       ],
     },
-    // {
-    //   title: "Internships",
-    //   experiences: [
-    //     {
-    //       title: "Machine Learning Intern",
-    //       company: "TikTok Inc.",
-    //       company_url: "https://www.tiktok.com/en/",
-    //       logo_path: "tiktok_logo.png",
-    //       duration: "May 2022 - Aug 2022",
-    //       location: "San Francisco, USA",
-    //       description:
-    //         "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-    //       color: "#000000",
-    //     },
-    //     {
-    //       title: "Data Science Research Intern",
-    //       company: "Delhivery Pvt. Ltd.",
-    //       company_url: "https://www.delhivery.com/",
-    //       logo_path: "delhivery_logo.png",
-    //       duration: "May 2019 - Sept 2019",
-    //       location: "Gurgaon, Haryana",
-    //       description:
-    //         "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-    //       color: "#ee3c26",
-    //     },
-    //     {
-    //       title: "Data Science Intern",
-    //       company: "Intel Indexer LLC",
-    //       company_url:
-    //         "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-    //       logo_path: "intel_logo.jpg",
-    //       duration: "Nov 2018 - Dec 2018",
-    //       location: "Work From Home",
-    //       description:
-    //         "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-    //       color: "#0071C5",
-    //     },
-    //   ],
-    // },
+    {
+      title: "Internships",
+      experiences: [
+        {
+          title: "Mobile App Developer",
+          company: "Genesis for Startups",
+          company_url:
+            "https://www.linkedin.com/company/startwithgenesis/about/",
+          logo_path: "genesis.jpeg",
+          duration: "Jan 2020 - Mar 2020",
+          location: "Remote",
+          description: [
+            "⚡ Developed an Android application using Flutter framework and implemented robust architecture and state management using bLoC pattern.",
+            "⚡ Integrated REST APIs to fetch and update data within the application.",
+            "⚡ Built a responsive UI consisting of 30+ screens based on provided designs.",
+            "⚡ Ensured pixel-perfect implementation, adhering to design guidelines and best practices.",
+            "⚡ Created intuitive user interfaces to enhance user experience and engagement.",
+            "⚡ Designed and developed a platform to connect artists and agencies.",
+            "⚡ Implemented profile-building features for artists, enabling them to upload videos, experiences, and bios. Also developed functionality for agencies to invite artists to auditions based on their profiles.",
+            "⚡ Enabled artists to apply for auditions directly through the application.",
+          ],
+          color: "#000000",
+        },
+        {
+          title: "Flutter And Backend Developer",
+          company: "Koverhoop Technologies",
+          company_url:
+            "https://www.linkedin.com/company/koverhoop-technologies/posts/?feedView=all",
+          logo_path: "koverhoop.jpeg",
+          duration: "Jul 2019 - Dec 2019",
+          location: "Gurgaon, Haryana, India",
+          description: [
+            "⚡ Worked on an existing Flutter app 'Nobbas' (a real estate app) and built an animated feedback page for it.",
+            "⚡ Developed the 'Klient App' (an app to provide insurance to employees within a company) from scratch using Flutter and the BLoC pattern for state management.",
+            "⚡ Worked on backend APIs for 'Klient App' using Node.js, TypeScript, PostgreSQL, TypeORM, and Postman.",
+          ],
+          color: "#000000",
+        },
+        {
+          title: "Android Developer",
+          company: "Across The Globe (ATG)",
+          company_url:
+            "https://www.linkedin.com/company/across-the-globe-atg-/posts/?feedView=all",
+          logo_path: "atg.jpeg",
+          duration: "Dec 2018 - Jun 2019",
+          location: "Remote",
+          description: [
+            "⚡ ATG aims to connect people around the world so that they can help each other by sharing their knowledge. I worked on bug fixes, UI designs.",
+          ],
+          color: "#000000",
+        },
+      ],
+    },
   ],
 };
 
