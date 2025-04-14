@@ -573,7 +573,7 @@ const experience = {
         {
           title: "Sr. Product Engineer",
           company: "Loyalty Juggernaut (LJI)",
-          company_url: "https://orangehealth.io",
+          company_url: "https://lji.io",
           logo_path: "lji.jpeg",
           duration: "Jul 2021 - Dec 2021",
           location: "Hyderabad, India",
@@ -587,7 +587,7 @@ const experience = {
         {
           title: "Product Engineer",
           company: "Loyalty Juggernaut (LJI)",
-          company_url: "https://orangehealth.io",
+          company_url: "https://lji.io",
           logo_path: "lji.jpeg",
           duration: "May 2020 - Jun 2021",
           location: "Hyderabad, India",
